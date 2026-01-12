@@ -1,0 +1,6 @@
+@ChineseSale_HostAddress = http://localhost:5237
+
+GET {{ChineseSale_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

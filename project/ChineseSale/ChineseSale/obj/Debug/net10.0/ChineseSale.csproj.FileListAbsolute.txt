@@ -1,0 +1,797 @@
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\appsettings.Development.json
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\appsettings.json
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ChineseSale.staticwebassets.endpoints.json
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ChineseSale.exe
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ChineseSale.deps.json
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ChineseSale.runtimeconfig.json
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ChineseSale.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ChineseSale.pdb
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Azure.Core.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Azure.Identity.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Humanizer.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.Build.Locator.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.OpenApi.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.Win32.SystemEvents.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Mono.TextTemplating.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.ClientModel.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.CodeDom.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.Composition.Convention.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.Composition.Hosting.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.Composition.Runtime.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.Composition.TypedParts.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.Drawing.Common.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.Memory.Data.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.Runtime.Caching.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.Security.Permissions.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.Windows.Extensions.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+L:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+L:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\ChineseSale.csproj.AssemblyReference.cache
+L:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\rpswa.dswa.cache.json
+L:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\ChineseSale.GeneratedMSBuildEditorConfig.editorconfig
+L:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\ChineseSale.AssemblyInfoInputs.cache
+L:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\ChineseSale.AssemblyInfo.cs
+L:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\ChineseSale.csproj.CoreCompileInputs.cache
+L:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\ChineseSale.MvcApplicationPartsAssemblyInfo.cs
+L:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\ChineseSale.MvcApplicationPartsAssemblyInfo.cache
+L:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\rjimswa.dswa.cache.json
+L:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+L:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+L:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\scopedcss\bundle\ChineseSale.styles.css
+L:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\staticwebassets.build.json
+L:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\staticwebassets.build.json.cache
+L:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\staticwebassets.development.json
+L:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+L:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\swae.build.ex.cache
+L:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+L:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\ChineseS.2F44172E.Up2Date
+L:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\ChineseSale.dll
+L:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\refint\ChineseSale.dll
+L:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\ChineseSale.pdb
+L:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\ChineseSale.genruntimeconfig.cache
+L:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\ref\ChineseSale.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\appsettings.Development.json
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\appsettings.json
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ChineseSale.staticwebassets.endpoints.json
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ChineseSale.exe
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ChineseSale.deps.json
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ChineseSale.runtimeconfig.json
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ChineseSale.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ChineseSale.pdb
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Azure.Core.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Azure.Identity.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Humanizer.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.Build.Locator.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.Win32.SystemEvents.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Mono.TextTemplating.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.ClientModel.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.CodeDom.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.Composition.Convention.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.Composition.Hosting.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.Composition.Runtime.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.Composition.TypedParts.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.Drawing.Common.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.Memory.Data.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.Runtime.Caching.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.Security.Permissions.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.Windows.Extensions.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\ChineseSale.csproj.AssemblyReference.cache
+D:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\ChineseSale.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\ChineseSale.AssemblyInfoInputs.cache
+D:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\ChineseSale.AssemblyInfo.cs
+D:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\ChineseSale.csproj.CoreCompileInputs.cache
+D:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\ChineseSale.MvcApplicationPartsAssemblyInfo.cs
+D:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\ChineseSale.MvcApplicationPartsAssemblyInfo.cache
+D:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\scopedcss\bundle\ChineseSale.styles.css
+D:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\staticwebassets.build.json
+D:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\staticwebassets.development.json
+D:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\swae.build.ex.cache
+D:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\ChineseS.2F44172E.Up2Date
+D:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\ChineseSale.dll
+D:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\refint\ChineseSale.dll
+D:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\ChineseSale.pdb
+D:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\ChineseSale.genruntimeconfig.cache
+D:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\ref\ChineseSale.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\appsettings.Development.json
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\appsettings.json
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ChineseSale.staticwebassets.endpoints.json
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ChineseSale.exe
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ChineseSale.deps.json
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ChineseSale.runtimeconfig.json
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ChineseSale.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ChineseSale.pdb
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Azure.Core.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Azure.Identity.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Humanizer.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.Build.Locator.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.OpenApi.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.Win32.SystemEvents.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Mono.TextTemplating.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.ClientModel.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.CodeDom.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.Composition.Convention.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.Composition.Hosting.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.Composition.Runtime.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.Composition.TypedParts.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.Drawing.Common.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.Memory.Data.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.Runtime.Caching.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.Security.Permissions.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.Windows.Extensions.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\project\ChineseSale\ChineseSale\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\ChineseSale.csproj.AssemblyReference.cache
+E:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\rpswa.dswa.cache.json
+E:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\ChineseSale.GeneratedMSBuildEditorConfig.editorconfig
+E:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\ChineseSale.AssemblyInfoInputs.cache
+E:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\ChineseSale.AssemblyInfo.cs
+E:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\ChineseSale.csproj.CoreCompileInputs.cache
+E:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\ChineseSale.MvcApplicationPartsAssemblyInfo.cs
+E:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\ChineseSale.MvcApplicationPartsAssemblyInfo.cache
+E:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\rjimswa.dswa.cache.json
+E:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+E:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+E:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\scopedcss\bundle\ChineseSale.styles.css
+E:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\staticwebassets.build.json
+E:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\staticwebassets.build.json.cache
+E:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\staticwebassets.development.json
+E:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+E:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\swae.build.ex.cache
+E:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\ChineseS.2F44172E.Up2Date
+E:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\ChineseSale.dll
+E:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\refint\ChineseSale.dll
+E:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\ChineseSale.pdb
+E:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\ChineseSale.genruntimeconfig.cache
+E:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\ref\ChineseSale.dll
+E:\project\ChineseSale\ChineseSale\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+E:\לימודים יד\project\ChineseSale\ChineseSale\obj\Debug\net10.0\ChineseSale.csproj.AssemblyReference.cache
+E:\לימודים יד\project\ChineseSale\ChineseSale\obj\Debug\net10.0\rpswa.dswa.cache.json
+E:\לימודים יד\project\ChineseSale\ChineseSale\obj\Debug\net10.0\ChineseSale.GeneratedMSBuildEditorConfig.editorconfig
+E:\לימודים יד\project\ChineseSale\ChineseSale\obj\Debug\net10.0\ChineseSale.AssemblyInfoInputs.cache
+E:\לימודים יד\project\ChineseSale\ChineseSale\obj\Debug\net10.0\ChineseSale.AssemblyInfo.cs
+E:\לימודים יד\project\ChineseSale\ChineseSale\obj\Debug\net10.0\ChineseSale.csproj.CoreCompileInputs.cache
+E:\לימודים יד\project\ChineseSale\ChineseSale\obj\Debug\net10.0\ChineseSale.MvcApplicationPartsAssemblyInfo.cs
+E:\לימודים יד\project\ChineseSale\ChineseSale\obj\Debug\net10.0\ChineseSale.MvcApplicationPartsAssemblyInfo.cache
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\appsettings.Development.json
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\appsettings.json
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ChineseSale.staticwebassets.endpoints.json
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ChineseSale.exe
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ChineseSale.deps.json
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ChineseSale.runtimeconfig.json
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ChineseSale.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ChineseSale.pdb
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Azure.Core.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Azure.Identity.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Humanizer.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.Build.Locator.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.OpenApi.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.Win32.SystemEvents.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Mono.TextTemplating.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.ClientModel.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.CodeDom.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.Composition.Convention.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.Composition.Hosting.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.Composition.Runtime.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.Composition.TypedParts.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.Drawing.Common.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.Memory.Data.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.Runtime.Caching.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.Security.Permissions.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.Windows.Extensions.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\obj\Debug\net10.0\rjimswa.dswa.cache.json
+E:\לימודים יד\project\ChineseSale\ChineseSale\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+E:\לימודים יד\project\ChineseSale\ChineseSale\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+E:\לימודים יד\project\ChineseSale\ChineseSale\obj\Debug\net10.0\scopedcss\bundle\ChineseSale.styles.css
+E:\לימודים יד\project\ChineseSale\ChineseSale\obj\Debug\net10.0\staticwebassets.build.json
+E:\לימודים יד\project\ChineseSale\ChineseSale\obj\Debug\net10.0\staticwebassets.build.json.cache
+E:\לימודים יד\project\ChineseSale\ChineseSale\obj\Debug\net10.0\staticwebassets.development.json
+E:\לימודים יד\project\ChineseSale\ChineseSale\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+E:\לימודים יד\project\ChineseSale\ChineseSale\obj\Debug\net10.0\swae.build.ex.cache
+E:\לימודים יד\project\ChineseSale\ChineseSale\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+E:\לימודים יד\project\ChineseSale\ChineseSale\obj\Debug\net10.0\ChineseS.2F44172E.Up2Date
+E:\לימודים יד\project\ChineseSale\ChineseSale\obj\Debug\net10.0\ChineseSale.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\obj\Debug\net10.0\refint\ChineseSale.dll
+E:\לימודים יד\project\ChineseSale\ChineseSale\obj\Debug\net10.0\ChineseSale.pdb
+E:\לימודים יד\project\ChineseSale\ChineseSale\obj\Debug\net10.0\ChineseSale.genruntimeconfig.cache
+E:\לימודים יד\project\ChineseSale\ChineseSale\obj\Debug\net10.0\ref\ChineseSale.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\appsettings.Development.json
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\appsettings.json
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ChineseSale.staticwebassets.endpoints.json
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ChineseSale.exe
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ChineseSale.deps.json
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ChineseSale.runtimeconfig.json
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ChineseSale.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ChineseSale.pdb
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Azure.Core.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Azure.Identity.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Humanizer.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.Build.Locator.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Microsoft.Win32.SystemEvents.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Mono.TextTemplating.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.ClientModel.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.CodeDom.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.Composition.Convention.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.Composition.Hosting.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.Composition.Runtime.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.Composition.TypedParts.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.Drawing.Common.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.Memory.Data.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.Runtime.Caching.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.Security.Permissions.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\System.Windows.Extensions.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\obj\Debug\net10.0\ChineseSale.csproj.AssemblyReference.cache
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\obj\Debug\net10.0\ChineseSale.GeneratedMSBuildEditorConfig.editorconfig
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\obj\Debug\net10.0\ChineseSale.AssemblyInfoInputs.cache
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\obj\Debug\net10.0\ChineseSale.AssemblyInfo.cs
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\obj\Debug\net10.0\ChineseSale.csproj.CoreCompileInputs.cache
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\obj\Debug\net10.0\ChineseSale.MvcApplicationPartsAssemblyInfo.cs
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\obj\Debug\net10.0\ChineseSale.MvcApplicationPartsAssemblyInfo.cache
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\obj\Debug\net10.0\scopedcss\bundle\ChineseSale.styles.css
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\obj\Debug\net10.0\staticwebassets.build.json
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\obj\Debug\net10.0\staticwebassets.development.json
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\obj\Debug\net10.0\swae.build.ex.cache
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\obj\Debug\net10.0\ChineseS.2F44172E.Up2Date
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\obj\Debug\net10.0\ChineseSale.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\obj\Debug\net10.0\refint\ChineseSale.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\obj\Debug\net10.0\ChineseSale.pdb
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\obj\Debug\net10.0\ChineseSale.genruntimeconfig.cache
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\obj\Debug\net10.0\ref\ChineseSale.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Serilog.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Serilog.AspNetCore.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Serilog.Extensions.Hosting.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Serilog.Extensions.Logging.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Serilog.Formatting.Compact.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Serilog.Settings.Configuration.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Serilog.Sinks.Console.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Serilog.Sinks.Debug.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\Serilog.Sinks.File.dll
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\bin\Debug\net10.0\ChineseSale.staticwebassets.runtime.json
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt

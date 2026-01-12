@@ -1,0 +1,8 @@
+E:\לימודים יד\project\ChineseSale\ChineseSale\obj\Debug\net6.0\ChineseSale.csproj.AssemblyReference.cache
+E:\לימודים יד\project\ChineseSale\ChineseSale\obj\Debug\net6.0\rpswa.dswa.cache.json
+E:\לימודים יד\project\ChineseSale\ChineseSale\obj\Debug\net6.0\ChineseSale.GeneratedMSBuildEditorConfig.editorconfig
+E:\לימודים יד\project\ChineseSale\ChineseSale\obj\Debug\net6.0\ChineseSale.AssemblyInfoInputs.cache
+E:\לימודים יד\project\ChineseSale\ChineseSale\obj\Debug\net6.0\ChineseSale.AssemblyInfo.cs
+E:\לימודים יד\project\ChineseSale\ChineseSale\obj\Debug\net6.0\ChineseSale.csproj.CoreCompileInputs.cache
+E:\לימודים יד\project\ChineseSale\ChineseSale\obj\Debug\net6.0\ChineseSale.MvcApplicationPartsAssemblyInfo.cs
+E:\לימודים יד\project\ChineseSale\ChineseSale\obj\Debug\net6.0\ChineseSale.MvcApplicationPartsAssemblyInfo.cache
