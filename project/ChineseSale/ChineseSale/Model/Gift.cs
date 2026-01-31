@@ -18,8 +18,8 @@ namespace ChineseSale.Model
         public string Description { get; set; }
         public int Value { get; set; }
 
-        [Required]
-        public int PriceCard { get; set; }
+      
+        
 
         [Required]
         public int CategoryId { get; set; }

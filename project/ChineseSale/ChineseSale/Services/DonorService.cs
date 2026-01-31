@@ -46,7 +46,6 @@ namespace ChineseSale.Services
                     Name = gift.Name,
                     Description = gift.Description,
                     Value = gift.Value,
-                    PriceCard = gift.PriceCard,
                     Category = new GetCategoryDto()
                     {
                         Id = gift.Category.Id,

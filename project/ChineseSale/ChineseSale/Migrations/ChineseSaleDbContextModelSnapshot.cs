@@ -34,6 +34,10 @@ namespace ChineseSale.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.PrimitiveCollection<string>("PackageId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<double>("Sum")
                         .HasColumnType("float");
 
@@ -115,9 +119,6 @@ namespace ChineseSale.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("PriceCard")
-                        .HasColumnType("int");
-
                     b.Property<int>("SumCustomers")
                         .HasColumnType("int");
 
@@ -147,6 +148,10 @@ namespace ChineseSale.Migrations
 
                     b.Property<DateTime>("OrdeData")
                         .HasColumnType("datetime2");
+
+                    b.PrimitiveCollection<string>("PackageId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<double>("Sum")
                         .HasColumnType("float");

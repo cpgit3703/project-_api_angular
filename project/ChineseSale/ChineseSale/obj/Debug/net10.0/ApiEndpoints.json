@@ -90,7 +90,7 @@
   {
     "ContainingType": "ChineseSale.Controllers.BasketController",
     "Method": "AddGiftsToBasketDto",
-    "RelativePath": "api/Basket/AddGifts",
+    "RelativePath": "api/Basket/AddGift",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -115,8 +115,60 @@
   },
   {
     "ContainingType": "ChineseSale.Controllers.BasketController",
+    "Method": "AddPackagesToBasketDto",
+    "RelativePath": "api/Basket/AddPackage",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "addPackagesToBasketDto",
+        "Type": "ChineseSale.Dto.AddPackagesToBasketDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ChineseSale.Dto.GetByUserBasketDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ChineseSale.Controllers.BasketController",
+    "Method": "GetByUserIdBasketAsync",
+    "RelativePath": "api/Basket/ByUserId/{userId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ChineseSale.Dto.GetByUserBasketDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ChineseSale.Controllers.BasketController",
     "Method": "DeleteGiftsFromBasketDto",
-    "RelativePath": "api/Basket/DeleteGifts",
+    "RelativePath": "api/Basket/DeleteGift",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
@@ -124,6 +176,32 @@
       {
         "Name": "deleteGiftsFromBasketDto",
         "Type": "ChineseSale.Dto.DeleteGiftsFromBasketDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ChineseSale.Dto.GetByUserBasketDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ChineseSale.Controllers.BasketController",
+    "Method": "DeletePackageFromBasketDto",
+    "RelativePath": "api/Basket/DeletePackage",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "deletePackagesFromBasketDto",
+        "Type": "ChineseSale.Dto.DeletePackagesFromBasketDto",
         "IsRequired": true
       }
     ],

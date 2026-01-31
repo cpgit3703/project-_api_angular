@@ -13,12 +13,12 @@ using System.Text;
 var builder = WebApplication.CreateBuilder(args);
 
 // ===== DB Context =====
-builder.Services.AddDbContext<ChineseSaleDbContext>(options =>
-    options.UseSqlServer("Server=DESKTOP-P3U8QIP;Database=ChineseSale_329213227;" +
-    "Integrated Security=True;Persist Security Info=False;TrustServerCertificate=True;"));
 //builder.Services.AddDbContext<ChineseSaleDbContext>(options =>
-//    options.UseSqlServer("Server=CYPY;Database=ChineseSale_329213227;" +
+//    options.UseSqlServer("Server=DESKTOP-P3U8QIP;Database=ChineseSale_329213227;" +
 //    "Integrated Security=True;Persist Security Info=False;TrustServerCertificate=True;"));
+builder.Services.AddDbContext<ChineseSaleDbContext>(options =>
+        options.UseSqlServer("Server=CYPY;Database=ChineseSale_329213227;Trusted_Connection=True;TrustServerCertificate=True;"
+));
 
 // ===== Services & Repositories =====
 builder.Services.AddScoped<IGiftReposetory, GiftReposetory>();
@@ -103,7 +103,7 @@ builder.Services.AddAuthentication(options =>
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowAngular", policy =>policy
-              .WithOrigins("http://localhost:4200")   // מאפשר כל מקור, אפשר לשנות לכתובת Angular שלך
+              .WithOrigins("http://localhost:4200")  
               .AllowAnyMethod()  
               .AllowAnyHeader()); 
 });

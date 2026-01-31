@@ -1,7 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using ChineseSale.Dto;
-using ChineseSale.Model;
+﻿using ChineseSale.Dto;
 using ChineseSale.Services;
+using Microsoft.AspNetCore.Mvc;
 namespace ChineseSale.Controllers
 {
     [ApiController]
@@ -36,6 +35,20 @@ namespace ChineseSale.Controllers
                 return BadRequest(ex.Message);
             }
         }
+        [HttpGet("ByUserId/{userId}")]
+        public async Task<ActionResult<GetByUserBasketDto>> GetByUserIdBasketAsync(int userId)
+        {
+            try
+            {
+                var basket = await _basketServices.GetBasketByUserIdAsync(userId);
+                _logger.LogInformation("Getting All Gift");
+                return Ok(basket);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
+        }
         [HttpPost]
 
         public async Task<ActionResult<GetBasketDto>> CreateBasketAsync(CreateBasketDto basketDto)
@@ -53,9 +66,10 @@ namespace ChineseSale.Controllers
 
 
         }
-        [HttpPost("AddGifts")]
+        [HttpPost("AddGift")]
         public async Task<ActionResult<GetByUserBasketDto>> AddGiftsToBasketDto(AddGiftsToBasketDto addGiftsToBasketDto)
         {
+
             try
             {
                 var basket = await _basketServices.AddGiftsToBasketAsync(addGiftsToBasketDto);
@@ -68,13 +82,44 @@ namespace ChineseSale.Controllers
             }
 
         }
-        [HttpDelete("DeleteGifts")]
+        [HttpDelete("DeleteGift")]
         public async Task<ActionResult<GetByUserBasketDto>> DeleteGiftsFromBasketDto([FromBody] DeleteGiftsFromBasketDto deleteGiftsFromBasketDto)
         {
             try
             {
+                int a = deleteGiftsFromBasketDto.BasketId;
+                Console.WriteLine(a);
                 var basket = await _basketServices.DeleteGiftsFromBasketAsync(deleteGiftsFromBasketDto);
                 _logger.LogInformation("Getting All Gift");
+                return Ok(basket);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
+        }
+        [HttpPost("AddPackage")]
+        public async Task<ActionResult<GetByUserBasketDto>> AddPackagesToBasketDto(AddPackagesToBasketDto addPackagesToBasketDto)
+        {
+            try
+            {
+                var basket = await _basketServices.AddPackagesToBasketAsync(addPackagesToBasketDto);
+                _logger.LogInformation("Getting All package");
+                return Ok(basket);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
+
+        }
+        [HttpDelete("DeletePackage")]
+        public async Task<ActionResult<GetByUserBasketDto>> DeletePackageFromBasketDto([FromBody] DeletePackagesFromBasketDto deletePackagesFromBasketDto)
+        {
+            try
+            {
+                var basket = await _basketServices.DeletePackagesFromBasketAsync(deletePackagesFromBasketDto);
+                _logger.LogInformation("Getting All packages");
                 return Ok(basket);
             }
             catch (Exception ex)
@@ -91,6 +136,7 @@ namespace ChineseSale.Controllers
                 return NotFound();
             return NoContent();
         }
+
 
     }
 }

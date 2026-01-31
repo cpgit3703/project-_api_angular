@@ -11,5 +11,7 @@ namespace ChineseSale.Repositories
         Task<Basket> AddGiftsToBasketAsync(Basket basket,Gift gift);
         Task<Basket> DeleteGiftsFromBasketAsync(Basket basket,Gift gift);
         Task DeleteBasketAsync(Basket basket);
+       Task<Basket?> AddPackagesToBasketAsync(Basket basket, Package package);
+       Task<Basket?> DeletePackagesFromBasketAsync(Basket basket, Package package);
     }
 }

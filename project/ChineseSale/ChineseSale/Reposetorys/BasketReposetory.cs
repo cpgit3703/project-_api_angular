@@ -85,13 +85,13 @@ namespace ChineseSale.Repositories
         {
             return await _context.Baskets
                 .Include(Basket => Basket.User)
-                 .FirstOrDefaultAsync(c => c.Id == Id);
+                .FirstOrDefaultAsync(c => c.Id == Id);
         }
         public async Task<Basket?> GetByUserBasketAsync(int UserId)
         {
             return await _context.Baskets
                 .Include(Basket => Basket.User)
-                 .FirstOrDefaultAsync(c => c.UserId == UserId);
+                .FirstOrDefaultAsync(c => c.UserId == UserId);
         }
         public async Task<Basket> CreateBasketAsync(Basket basket)
         {
@@ -105,9 +105,11 @@ namespace ChineseSale.Repositories
             await _context.SaveChangesAsync();
         }
         public async Task<Basket?> AddGiftsToBasketAsync(Basket basket, Gift gift)
-        {
+        {  
+            int basket1 = basket.UserId;
+            
+          
             basket.GiftsId.Add(gift.Id);
-            basket.Sum += gift.PriceCard;
             _context.Baskets.Update(basket);
             gift.SumCustomers += 1;
             _context.Gifts.Update(gift);
@@ -118,9 +120,28 @@ namespace ChineseSale.Repositories
         public async Task<Basket?> DeleteGiftsFromBasketAsync(Basket basket, Gift gift)
         {
             basket.GiftsId.Remove(gift.Id);
-            basket.Sum -= gift.PriceCard;
             gift.SumCustomers -= 1;
             _context.Gifts.Update(gift);
+            _context.Baskets.Update(basket);
+            await _context.SaveChangesAsync();
+            return basket;
+        }
+
+        public async Task<Basket?> AddPackagesToBasketAsync(Basket basket, Package package)
+        {
+            basket.PackageId.Add(package.Id);
+            _context.Baskets.Update(basket);
+            basket.Sum += package.Price;
+            _context.Packages.Update(package);
+            await _context.SaveChangesAsync();
+
+            return basket;
+        }
+        public async Task<Basket?> DeletePackagesFromBasketAsync(Basket basket, Package package)
+        {
+            basket.PackageId.Remove(package.Id);
+             basket.Sum -= package.Price;
+            _context.Packages.Update(package);
             _context.Baskets.Update(basket);
             await _context.SaveChangesAsync();
             return basket;

@@ -1,0 +1,1 @@
+2026-01-18 23:16:21.907 +02:00 [INF] Getting All Gift {"SourceContext":"ChineseSale.Controllers.BasketController","ActionId":"d7352b14-d87e-48a5-9f7f-82a8c215aac9","ActionName":"ChineseSale.Controllers.BasketController.GetAllBasketAsync (ChineseSale)","RequestId":"0HNIMQR4HQBM0:0000000B","RequestPath":"/api/Basket","ConnectionId":"0HNIMQR4HQBM0"}

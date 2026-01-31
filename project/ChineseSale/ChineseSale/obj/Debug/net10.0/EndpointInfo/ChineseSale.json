@@ -129,7 +129,47 @@
         }
       }
     },
-    "/api/Basket/AddGifts": {
+    "/api/Basket/ByUserId/{userId}": {
+      "get": {
+        "tags": [
+          "Basket"
+        ],
+        "parameters": [
+          {
+            "name": "userId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/GetByUserBasketDto"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/GetByUserBasketDto"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/GetByUserBasketDto"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Basket/AddGift": {
       "post": {
         "tags": [
           "Basket"
@@ -177,7 +217,7 @@
         }
       }
     },
-    "/api/Basket/DeleteGifts": {
+    "/api/Basket/DeleteGift": {
       "delete": {
         "tags": [
           "Basket"
@@ -197,6 +237,102 @@
             "application/*+json": {
               "schema": {
                 "$ref": "#/components/schemas/DeleteGiftsFromBasketDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/GetByUserBasketDto"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/GetByUserBasketDto"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/GetByUserBasketDto"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Basket/AddPackage": {
+      "post": {
+        "tags": [
+          "Basket"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/AddPackagesToBasketDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/AddPackagesToBasketDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/AddPackagesToBasketDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/GetByUserBasketDto"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/GetByUserBasketDto"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/GetByUserBasketDto"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Basket/DeletePackage": {
+      "delete": {
+        "tags": [
+          "Basket"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/DeletePackagesFromBasketDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/DeletePackagesFromBasketDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/DeletePackagesFromBasketDto"
               }
             }
           }
@@ -1650,7 +1786,21 @@
             "type": "integer",
             "format": "int32"
           },
-          "giftstId": {
+          "giftsId": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "AddPackagesToBasketDto": {
+        "type": "object",
+        "properties": {
+          "basketId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "packageId": {
             "type": "integer",
             "format": "int32"
           }
@@ -1709,8 +1859,7 @@
         "required": [
           "categoryId",
           "donorId",
-          "name",
-          "priceCard"
+          "name"
         ],
         "type": "object",
         "properties": {
@@ -1731,10 +1880,6 @@
             "nullable": true
           },
           "value": {
-            "type": "integer",
-            "format": "int32"
-          },
-          "priceCard": {
             "type": "integer",
             "format": "int32"
           },
@@ -1764,6 +1909,14 @@
             "format": "int32"
           },
           "giftsId": {
+            "type": "array",
+            "items": {
+              "type": "integer",
+              "format": "int32"
+            },
+            "nullable": true
+          },
+          "packageId": {
             "type": "array",
             "items": {
               "type": "integer",
@@ -1854,7 +2007,21 @@
             "type": "integer",
             "format": "int32"
           },
-          "giftstId": {
+          "giftsId": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "DeletePackagesFromBasketDto": {
+        "type": "object",
+        "properties": {
+          "basketId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "packageId": {
             "type": "integer",
             "format": "int32"
           }
@@ -1928,6 +2095,13 @@
             "type": "array",
             "items": {
               "$ref": "#/components/schemas/GetGiftDto"
+            },
+            "nullable": true
+          },
+          "packages": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/GetPackageDto"
             },
             "nullable": true
           },
@@ -2027,10 +2201,6 @@
             "nullable": true
           },
           "value": {
-            "type": "integer",
-            "format": "int32"
-          },
-          "priceCard": {
             "type": "integer",
             "format": "int32"
           },
@@ -2207,8 +2377,7 @@
           "categoryId",
           "donorId",
           "id",
-          "name",
-          "priceCard"
+          "name"
         ],
         "type": "object",
         "properties": {
@@ -2229,10 +2398,6 @@
             "nullable": true
           },
           "value": {
-            "type": "integer",
-            "format": "int32"
-          },
-          "priceCard": {
             "type": "integer",
             "format": "int32"
           },

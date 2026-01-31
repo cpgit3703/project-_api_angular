@@ -28,7 +28,6 @@ namespace ChineseSale.Services
                     Name = gift.Name,
                     Description = gift.Description,
                     Value = gift.Value,
-                    PriceCard = gift.PriceCard,
                     Category =new GetCategoryDto() {
                         Id = gift.Category.Id,
                         Name = gift.Category.Name
@@ -63,7 +62,6 @@ namespace ChineseSale.Services
                 Name = gift.Name,
                 Description = gift.Description,
                 Value = gift.Value,
-                PriceCard = gift.PriceCard,
                 Category = new GetCategoryDto()
                 {
                     Id = gift.Category.Id,
@@ -86,7 +84,7 @@ namespace ChineseSale.Services
         public async Task<GetGiftDto> CreateGiftDtoAsync(CreateGiftDto GiftDto)
         {
 
-            if (GiftDto.Value <= 0 || GiftDto.PriceCard <= 0)
+            if (GiftDto.Value <= 0 )
             {
                 throw new AggregateException("Value and PriceCard must be greater than 0");
             }
@@ -95,7 +93,6 @@ namespace ChineseSale.Services
                 Name = GiftDto.Name,
                 Description = GiftDto.Description,
                 Value = GiftDto.Value,
-                PriceCard = GiftDto.PriceCard,
                 CategoryId = GiftDto.CategoryId,
                 DonorId = GiftDto.DonorId,
                 Image = GiftDto.Image,
@@ -108,7 +105,7 @@ namespace ChineseSale.Services
                 Name = gift2.Name,
                 Description = gift2.Description,
                 Value = gift2.Value,
-                PriceCard = gift2.PriceCard,
+           
                 Category = new GetCategoryDto()
                 {
                     Id = gift.Category.Id,
@@ -156,7 +153,7 @@ namespace ChineseSale.Services
                     Name = gift.Name,
                     Description = gift.Description,
                     Value = gift.Value,
-                    PriceCard = gift.PriceCard,
+              
                     Category = new GetCategoryDto()
                     {
                         Id = gift.Category.Id,
@@ -187,9 +184,9 @@ namespace ChineseSale.Services
             Donor olddonor= gift.Donor;
             if (gift==null)
                 throw new AggregateException("not found gift");
-            if (GiftDto.Value <= 0 || GiftDto.PriceCard <= 0)
+            if (GiftDto.Value <= 0)
             {
-                throw new AggregateException("Value and PriceCard must be greater than 0");
+                throw new AggregateException("Value  must be greater than 0");
             }
            gift.Name=GiftDto.Name;
            gift.Value = GiftDto.Value;
@@ -197,7 +194,7 @@ namespace ChineseSale.Services
            gift.DonorId= GiftDto.DonorId;
            gift.CategoryId = GiftDto.CategoryId;
            gift.Image= GiftDto.Image;
-           gift.PriceCard= GiftDto.PriceCard;
+      
       
 
             Gift gift1 = await _repository.UpdateGiftAsync(gift);
@@ -206,7 +203,6 @@ namespace ChineseSale.Services
                 Name = gift1.Name,
                 Description = gift1.Description,
                 Value = gift1.Value,
-                PriceCard = gift1.PriceCard,
                 Category = new GetCategoryDto()
                 {
                     Id = gift.Category.Id,

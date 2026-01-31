@@ -7,13 +7,16 @@ namespace ChineseSale.Services
     {
         private readonly IOrderReposetory _repository;
         private readonly IGiftServices _giftservice;
+        private readonly IPackegeService _packegeService;
         private readonly IUserReposerory _userrepository;
-        public OrderService(IOrderReposetory repository, IGiftServices giftservice, IUserReposerory userrepository)
+        public OrderService(IOrderReposetory repository, IGiftServices giftservice, IUserReposerory userrepository,
+            IPackegeService packegeService)
         {
 
             _repository = repository;
             _giftservice = giftservice;
             _userrepository = userrepository;
+            _packegeService = packegeService;
         }
         public async Task<IEnumerable<GetOrderDto>> GetAllOrderAsync()
         {
@@ -28,7 +31,8 @@ namespace ChineseSale.Services
                     Id = order.Id,
                     UserId = order.UserId,
                     Sum = order.Sum,
-                    OrdeData = order.OrdeData
+                    OrdeData = order.OrdeData,
+                    
                 };
                 orderDtos.Add(GetOrderDto);
             }
@@ -54,7 +58,17 @@ namespace ChineseSale.Services
                 }
 
             }
+            List<GetPackageDto> packages = new List<GetPackageDto>();
+            for (int i = 0; i < order.PackageId.Count(); i++)
+            {
 
+                GetPackageDto package = await _packegeService.GetByIdPackageAsync(order.PackageId[i]);
+                if (order != null)
+                {
+                    packages.Add(package);
+                }
+
+            }
 
             GetOrderByIdDto getOrderByIdDto = new GetOrderByIdDto()
             {
@@ -63,7 +77,8 @@ namespace ChineseSale.Services
                 UserId = order.UserId,
                 GiftsId = orders,
                 Sum = order.Sum,
-                OrdeData = order.OrdeData
+                OrdeData = order.OrdeData,
+                PackageId=packages
 
             };
             return getOrderByIdDto;
@@ -85,7 +100,17 @@ namespace ChineseSale.Services
                 }
 
             }
+            List<GetPackageDto> packages = new List<GetPackageDto>();
+            for (int i = 0; i < order.PackageId.Count(); i++)
+            {
 
+                GetPackageDto package = await _packegeService.GetByIdPackageAsync(order.PackageId[i]);
+                if (order != null)
+                {
+                    packages.Add(package);
+                }
+
+            }
 
             GetOrderByIdDto getOrderByIdDto = new GetOrderByIdDto()
             {
@@ -94,7 +119,8 @@ namespace ChineseSale.Services
                 UserId = order.UserId,
                 GiftsId = orders,
                 Sum = order.Sum,
-                OrdeData = order.OrdeData
+                OrdeData = order.OrdeData,
+                PackageId=packages
 
             };
             return getOrderByIdDto;
@@ -108,6 +134,8 @@ namespace ChineseSale.Services
                 UserId = orderDto.UserId,
                 Sum = orderDto.Sum,
                 OrdeData = DateTime.Now,
+                GiftsId= orderDto.GiftsId,
+                PackageId = orderDto.PackageId,
             };
 
             // בדיקה אם כבר קיימת הזמנה עבור המשתמש

@@ -11,7 +11,7 @@ namespace ChineseSale.Dto
         public string Name { get; set; }
         public string Description { get; set; }
         public int Value { get; set; }
-        public int PriceCard { get; set; }
+    
 
         public GetCategoryDto Category { get; set; }
         public int SumCustomers { get; set; } = 0;
@@ -28,8 +28,7 @@ namespace ChineseSale.Dto
         public string Name { get; set; }
         public string Description { get; set; }
         public int Value { get; set; }
-        [Required]
-        public int PriceCard { get; set; }
+     
         [Required]
         public int CategoryId { get; set; }
         public string Image { get; set; }
@@ -46,8 +45,7 @@ namespace ChineseSale.Dto
         public string Name { get; set; }
         public string Description { get; set; }
         public int Value { get; set; }
-        [Required]
-        public int PriceCard { get; set; }
+       
         [Required]
         public int CategoryId { get; set; }
         public string Image { get; set; }

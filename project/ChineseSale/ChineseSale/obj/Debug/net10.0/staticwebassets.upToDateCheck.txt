@@ -1,28 +1,161 @@
-wwwroot\uploads\20260111-2120-09.0077506.mp4
-wwwroot\uploads\logo.webp
-wwwroot\uploads\2-1.jpg
-wwwroot\uploads\3-1.jpg
-wwwroot\uploads\4-1.jpg
-wwwroot\uploads\5.jpg
-wwwroot\uploads\6.jpg
-wwwroot\uploads\7.jpg
-wwwroot\uploads\הגשמת-חלום.jpg
-wwwroot\uploads\להקל-על-החיים.jpg
 wwwroot\uploads\10.jpg
-wwwroot\uploads\הצורפים.jpg
 wwwroot\uploads\12.jpg
 wwwroot\uploads\13.jpg
-wwwroot\uploads\טיסה-לארהב.jpg
 wwwroot\uploads\15.jpg
 wwwroot\uploads\16.jpg
 wwwroot\uploads\18.jpg
 wwwroot\uploads\19-2.jpg
-wwwroot\uploads\27-1.jpg
 wwwroot\uploads\21.jpg
-wwwroot\uploads\אצולת-אירופה-111.jpg
 wwwroot\uploads\23.jpg
-wwwroot\uploads\שינה.jpg
 wwwroot\uploads\253.jpg
 wwwroot\uploads\26.jpg
+wwwroot\uploads\27-1 (1).jpg
+wwwroot\uploads\27-1.jpg
 wwwroot\uploads\27.jpg
 wwwroot\uploads\28.jpg
+wwwroot\uploads\291.jpg
+wwwroot\uploads\3-1.jpg
+wwwroot\uploads\30.jpg
+wwwroot\uploads\311.jpg
+wwwroot\uploads\321.jpg
+wwwroot\uploads\33.jpg
+wwwroot\uploads\34.jpg
+wwwroot\uploads\35.jpg
+wwwroot\uploads\36.jpg
+wwwroot\uploads\37.jpg
+wwwroot\uploads\4-1.jpg
+wwwroot\uploads\42.jpg
+wwwroot\uploads\47.jpg
+wwwroot\uploads\49.jpg
+wwwroot\uploads\50.jpg
+wwwroot\uploads\51.jpg
+wwwroot\uploads\52.jpg
+wwwroot\uploads\53.jpg
+wwwroot\uploads\54.jpg
+wwwroot\uploads\55.jpg
+wwwroot\uploads\6.jpg
+wwwroot\uploads\62.jpg
+wwwroot\uploads\63.jpg
+wwwroot\uploads\64.jpg
+wwwroot\uploads\66.jpg
+wwwroot\uploads\68-copy.jpg
+wwwroot\uploads\69.jpg
+wwwroot\uploads\7.jpg
+wwwroot\uploads\72.jpg
+wwwroot\uploads\76.jpg
+wwwroot\uploads\77.jpg
+wwwroot\uploads\78.jpg
+wwwroot\uploads\79.jpg
+wwwroot\uploads\80.jpg
+wwwroot\uploads\82.jpg
+wwwroot\uploads\84.jpg
+wwwroot\uploads\a.jpg
+wwwroot\uploads\b.mp4
+wwwroot\uploads\c.png
+wwwroot\uploads\d.png
+wwwroot\uploads\emptyCart.webp
+wwwroot\uploads\g.png
+wwwroot\uploads\logo.webp
+wwwroot\uploads\osher.jpg
+wwwroot\uploads\prizesnew.jpg
+wwwroot\uploads\video.mp4
+wwwroot\uploads\אצולת-אירופה-111 (1).jpg
+wwwroot\uploads\אצולת-אירופה-111.jpg
+wwwroot\uploads\הגשמת-חלום.jpg
+wwwroot\uploads\הצורפים.jpg
+wwwroot\uploads\טיסה-לארהב.jpg
+wwwroot\uploads\להקל-על-החיים.jpg
+wwwroot\uploads\עזר מציון הגרלה השנתית 2026.html
+wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\221462456341221
+wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\284259305617966
+wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\accsessibility.svg
+wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\anchor.html
+wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\and.svg
+wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\api.js.הורדה
+wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\banneranimation.css
+wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\bootstrap-AMI.min.css
+wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\bootstrap.bundle.min.js.הורדה
+wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\card-injection.js.הורדה
+wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\cart-toggle.js.הורדה
+wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\cart.js.הורדה
+wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\cart.svg
+wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\data.js.הורדה
+wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\ewave.svg
+wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\fbevents.js.הורדה
+wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\fonts.css
+wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\footer-accordion.js.הורדה
+wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\foot_logo.svg
+wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\gift-boxes-confetti.png
+wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\gift.svg
+wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\gift2.svg
+wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\gift4.webp
+wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\gift5.svg
+wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\go-payment.html
+wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\go-payment.js.הורדה
+wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\gtm.js.הורדה
+wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\gtme.js.הורדה
+wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\header-pixel.js.הורדה
+wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\header_logo_desktop_black.webp
+wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\ico_charyty.svg
+wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\ico_co.svg
+wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\ico_location.svg
+wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\ico_phone.svg
+wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\index.html
+wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\jquery-3.7.1.min.js.הורדה
+wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\jquery.min.js.הורדה
+wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\jquery.touchSwipe.min.js.הורדה
+wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\js
+wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\js(1)
+wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\js(2)
+wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\js(3)
+wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\logomob.webp
+wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\minilogo.svg
+wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\modal.css
+wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\multi-countdown.js.הורדה
+wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\nisa.js.הורדה
+wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\obtp.js.הורדה
+wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\payment.css
+wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\pFrame.png
+wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\popup-card-init.js.הורדה
+wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\recaptcha__iw.js.הורדה
+wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\saved_resource(4).html
+wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\saved_resource(5).html
+wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\saved_resource.html
+wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\slogan.svg
+wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\style.css
+wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\styles__rtl.css
+wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\ticket.svg
+wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\vcd15cbe7772f49c399c6a5babf22c1241717689176015
+wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\yFrame.png
+wwwroot\uploads\שופינג-אישה2.jpg
+wwwroot\uploads\שופינג-ילדים-1.jpg
+wwwroot\uploads\שינה.jpg
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\wwwroot\uploads\עזר מציון הגרלה השנתית 2026.html
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\accsessibility.svg
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\anchor.html
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\and.svg
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\banneranimation.css
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\bootstrap-AMI.min.css
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\cart.svg
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\ewave.svg
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\fonts.css
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\foot_logo.svg
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\gift.svg
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\gift2.svg
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\gift5.svg
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\go-payment.html
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\ico_charyty.svg
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\ico_co.svg
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\ico_location.svg
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\ico_phone.svg
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\index.html
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\minilogo.svg
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\modal.css
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\payment.css
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\saved_resource(4).html
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\saved_resource(5).html
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\saved_resource.html
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\slogan.svg
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\style.css
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\styles__rtl.css
+D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\ticket.svg
