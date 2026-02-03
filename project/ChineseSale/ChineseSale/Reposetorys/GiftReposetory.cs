@@ -52,7 +52,25 @@ namespace ChineseSale.Repositories
              Include(d => d.Donor)
             .ToListAsync();
         }
-         public async Task<Gift> UpdateGiftAsync(Gift gift)
+
+        public async Task<IEnumerable<Gift?>> ExistsGiftDonorAsync(int donor)
+        {
+            return await _context.Gifts
+            .Where(g => g.DonorId == donor)
+            .Include(g => g.Category)
+            .Include(d => d.Donor)
+            .ToListAsync();
+        }
+        public async Task<IEnumerable<Gift?>> ExistsGiftAsync(int sumCustomers)
+        {
+           return await _context.Gifts
+          .Where(d => d.SumCustomers==sumCustomers)
+          .Include(g => g.Category).
+           Include(d => d.Donor)
+
+          .ToListAsync();
+        }
+        public async Task<Gift> UpdateGiftAsync(Gift gift)
         {
             _context.Gifts.Update(gift);
             await _context.SaveChangesAsync();

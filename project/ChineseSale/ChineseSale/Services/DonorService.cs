@@ -123,9 +123,85 @@ namespace ChineseSale.Services
             if (donor == null)
                 throw new AggregateException("donor not found");
             donor.Name = updateDonorDto.Name;
+            donor.Email = updateDonorDto.Email;
+            donor.Phone = updateDonorDto.Phone;
             Donor donor1 = await _repository.UpdateDonorAsync(donor);
 
         return await GetByIdDonorDtoAsync(donor1.Id);
+        }
+        public async Task<IEnumerable<GetDonorDto?>> ExistsDonorAsync(string name)
+        {
+
+            IEnumerable<Donor> donors = await _repository.ExistsDonorAsync(name);
+           
+            List<GetDonorDto> donorDtos = new List<GetDonorDto>();
+
+            foreach (var donor in donors)
+            {
+                GetDonorDto getDonorDto = new GetDonorDto()
+                {
+                   Id=donor.Id,
+                   Name = donor.Name,
+                   Email = donor.Email,
+                   Phone = donor.Phone,
+
+
+                };
+
+                donorDtos.Add(getDonorDto);
+            }
+
+            return donorDtos;
+        }
+        public async Task<IEnumerable<GetDonorDto?>> ExistsDonorEmailAsync(string email)
+        {
+
+            IEnumerable<Donor> donors = await _repository.ExistsDonorEmailAsync(email);
+
+            List<GetDonorDto> donorDtos = new List<GetDonorDto>();
+
+            foreach (var donor in donors)
+            {
+                GetDonorDto getDonorDto = new GetDonorDto()
+                {
+                    Id = donor.Id,
+                    Name = donor.Name,
+                    Email = donor.Email,
+                    Phone = donor.Phone,
+
+
+                };
+
+                donorDtos.Add(getDonorDto);
+            }
+
+            return donorDtos;
+        }
+
+
+        public async Task<IEnumerable<GetDonorDto?>> ExistsDonorAsync(Gift gift)
+        {
+
+            IEnumerable<Donor> donors = await _repository.ExistsDonorAsync(gift);
+
+            List<GetDonorDto> donorDtos = new List<GetDonorDto>();
+
+            foreach (var donor in donors)
+            {
+                GetDonorDto getDonorDto = new GetDonorDto()
+                {
+                    Id = donor.Id,
+                    Name = donor.Name,
+                    Email = donor.Email,
+                    Phone = donor.Phone,
+
+
+                };
+
+                donorDtos.Add(getDonorDto);
+            }
+
+            return donorDtos;
         }
     }
 }

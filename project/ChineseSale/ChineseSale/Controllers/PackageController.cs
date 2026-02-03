@@ -49,9 +49,13 @@ namespace ChineseSale.Controllers
             }
             catch (Exception ex)
             {
-                return BadRequest(ex.Message);
+                var message = ex.InnerException != null
+                    ? ex.InnerException.Message
+                    : ex.Message;
 
+                return BadRequest(message);
             }
+
         }
         [HttpDelete("{Id}")]
 

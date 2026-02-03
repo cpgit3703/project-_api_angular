@@ -456,6 +456,89 @@
     ]
   },
   {
+    "ContainingType": "ChineseSale.Controllers.DonorController",
+    "Method": "ExistsGiftAsync",
+    "RelativePath": "api/Donor/exists/{name}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ChineseSale.Dto.GetDonorDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ChineseSale.Controllers.DonorController",
+    "Method": "ExistsDonorEmailAsync",
+    "RelativePath": "api/Donor/exists/donor/{email}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ChineseSale.Dto.GetDonorDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ChineseSale.Controllers.DonorController",
+    "Method": "ExistsDonorEmailAsync",
+    "RelativePath": "api/Donor/exists/donor/{gift}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "gift",
+        "Type": "ChineseSale.Model.Gift",
+        "IsRequired": true
+      },
+      {
+        "Name": "gift",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ChineseSale.Dto.GetDonorDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "ChineseSale.Controllers.GiftController",
     "Method": "GetAllGiftAsync",
     "RelativePath": "api/Gift",
@@ -554,6 +637,58 @@
       {
         "Name": "name",
         "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ChineseSale.Dto.GetGiftDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ChineseSale.Controllers.GiftController",
+    "Method": "ExistsGiftDonorAsync",
+    "RelativePath": "api/Gift/exists/donor/{donor}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "donor",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ChineseSale.Dto.GetGiftDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ChineseSale.Controllers.GiftController",
+    "Method": "ExistsGiftAsync",
+    "RelativePath": "api/Gift/exists/sum/{sumCustomers}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sumCustomers",
+        "Type": "System.Int32",
         "IsRequired": true
       }
     ],
@@ -879,28 +1014,18 @@
   {
     "ContainingType": "ChineseSale.Controllers.PrizeController",
     "Method": "SelectRandomPrize",
-    "RelativePath": "api/Prize/prize/all",
-    "HttpMethod": "GET",
+    "RelativePath": "api/Prize/SelectRandomPrize/{giftId}",
+    "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
         "Name": "giftId",
         "Type": "System.Int32",
-        "IsRequired": false
+        "IsRequired": true
       }
     ],
-    "ReturnTypes": [
-      {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[ChineseSale.Dto.GetPrizeDto, ChineseSale, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
+    "ReturnTypes": []
   },
   {
     "ContainingType": "ChineseSale.Controllers.UserController",

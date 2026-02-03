@@ -28,7 +28,8 @@ namespace ChineseSale.Services
                     Description = package.Description,
                     Price = package.Price,
                     CountCard = package.CountCard,
-                    
+                    Image = package.Image
+
 
                 };
 
@@ -51,7 +52,8 @@ namespace ChineseSale.Services
                 Description = package.Description,
                 Price = package.Price,
                 CountCard = package.CountCard,
-                
+                Image = package.Image
+
 
             };
             return getPackageDto;
@@ -68,7 +70,8 @@ namespace ChineseSale.Services
                 Description = PackageDto.Description,
                 Price = PackageDto.Price,
                 CountCard = PackageDto.CountCard,
-               
+                Image = PackageDto.Image
+
 
             };
             
@@ -82,6 +85,7 @@ namespace ChineseSale.Services
                 Description = package1.Description,
                 Price = package1.Price,
                 CountCard = package1.CountCard,
+                Image = package1.Image
                 
             };
             return getPackageDto;
@@ -110,6 +114,7 @@ namespace ChineseSale.Services
             package.Description = packageDto.Description;
             package.Price = packageDto.Price;
             package.CountCard=packageDto.CountCard;
+            package.Image = packageDto.Image;
     
 
             

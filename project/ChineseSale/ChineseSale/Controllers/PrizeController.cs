@@ -55,13 +55,20 @@ namespace ChineseSale.Controllers
                 return BadRequest(ex.Message);
             }
         }
-        [HttpGet("prize/all")]
-        public async Task<ActionResult<IEnumerable<GetPrizeDto>>> SelectRandomPrize(int giftId)
+        [HttpPost("SelectRandomPrize/{giftId}")]
+        public async Task<IActionResult> SelectRandomPrize(int giftId)
         {
-            var prize = await _prizeService.SelectRandomPrize(giftId);
-            _logger.LogInformation("Getting All Prize");
-            return Ok(prize);
+            try
+            {
+                var prize = await _prizeService.SelectRandomPrize(giftId);
+                return Ok(prize);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
         }
+
 
         [HttpPost("pick-winner/{giftId}")]
         public async Task<IActionResult> PickWinner(int giftId)

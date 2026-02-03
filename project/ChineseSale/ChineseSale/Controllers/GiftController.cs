@@ -91,6 +91,20 @@ namespace ChineseSale.Controllers
             _logger.LogInformation("Getting All Gift");
             return Ok(gifts);
         }
+        [HttpGet("exists/donor/{donor}")]
+        public async Task<ActionResult<GetGiftDto>> ExistsGiftDonorAsync(int donor)
+        {
+            var gifts = await _giftServices.ExistsGiftDonorAsync(donor);
+            _logger.LogInformation("Getting All Gift");
+            return Ok(gifts);
+        }
+        [HttpGet("exists/sum/{sumCustomers}")]
+        public async Task<ActionResult<GetGiftDto>> ExistsGiftAsync(int sumCustomers)
+        {
+            var gifts = await _giftServices.ExistsGiftAsync(sumCustomers);
+            _logger.LogInformation("Getting All Gift");
+            return Ok(gifts);
+        }
 
     }
 }

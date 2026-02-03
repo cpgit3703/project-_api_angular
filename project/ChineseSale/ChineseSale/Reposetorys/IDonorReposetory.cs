@@ -11,5 +11,9 @@ namespace ChineseSale.Repositories
         Task<Donor?> AddGitfToDonor(Gift gift, Donor donor);
 
         Task<Donor?> DeleteGitFromDonor(Gift gift, Donor donor);
+
+        Task<IEnumerable<Donor?>> ExistsDonorAsync(string name);
+        Task<IEnumerable<Donor?>> ExistsDonorEmailAsync(string email);
+        Task<IEnumerable<Donor?>> ExistsDonorAsync(Gift gift);
     }
 }

@@ -790,6 +790,142 @@
         }
       }
     },
+    "/api/Donor/exists/{name}": {
+      "get": {
+        "tags": [
+          "Donor"
+        ],
+        "parameters": [
+          {
+            "name": "name",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/GetDonorDto"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/GetDonorDto"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/GetDonorDto"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Donor/exists/donor/{email}": {
+      "get": {
+        "tags": [
+          "Donor"
+        ],
+        "parameters": [
+          {
+            "name": "email",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/GetDonorDto"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/GetDonorDto"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/GetDonorDto"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Donor/exists/donor/{gift}": {
+      "get": {
+        "tags": [
+          "Donor"
+        ],
+        "parameters": [
+          {
+            "name": "gift",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Gift"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Gift"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Gift"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/GetDonorDto"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/GetDonorDto"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/GetDonorDto"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "/api/Gift": {
       "get": {
         "tags": [
@@ -1008,6 +1144,86 @@
             "required": true,
             "schema": {
               "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/GetGiftDto"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/GetGiftDto"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/GetGiftDto"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Gift/exists/donor/{donor}": {
+      "get": {
+        "tags": [
+          "Gift"
+        ],
+        "parameters": [
+          {
+            "name": "donor",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/GetGiftDto"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/GetGiftDto"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/GetGiftDto"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Gift/exists/sum/{sumCustomers}": {
+      "get": {
+        "tags": [
+          "Gift"
+        ],
+        "parameters": [
+          {
+            "name": "sumCustomers",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
             }
           }
         ],
@@ -1464,15 +1680,16 @@
         }
       }
     },
-    "/api/Prize/prize/all": {
-      "get": {
+    "/api/Prize/SelectRandomPrize/{giftId}": {
+      "post": {
         "tags": [
           "Prize"
         ],
         "parameters": [
           {
             "name": "giftId",
-            "in": "query",
+            "in": "path",
+            "required": true,
             "schema": {
               "type": "integer",
               "format": "int32"
@@ -1481,33 +1698,7 @@
         ],
         "responses": {
           "200": {
-            "description": "OK",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "array",
-                  "items": {
-                    "$ref": "#/components/schemas/GetPrizeDto"
-                  }
-                }
-              },
-              "application/json": {
-                "schema": {
-                  "type": "array",
-                  "items": {
-                    "$ref": "#/components/schemas/GetPrizeDto"
-                  }
-                }
-              },
-              "text/json": {
-                "schema": {
-                  "type": "array",
-                  "items": {
-                    "$ref": "#/components/schemas/GetPrizeDto"
-                  }
-                }
-              }
-            }
+            "description": "OK"
           }
         }
       }
@@ -1807,6 +1998,31 @@
         },
         "additionalProperties": false
       },
+      "Category": {
+        "required": [
+          "id",
+          "name"
+        ],
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "name": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "gifts": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Gift"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
       "CreateBasketDto": {
         "required": [
           "userId"
@@ -1958,6 +2174,10 @@
           "countCard": {
             "type": "integer",
             "format": "int32"
+          },
+          "image": {
+            "type": "string",
+            "nullable": true
           }
         },
         "additionalProperties": false
@@ -2024,6 +2244,40 @@
           "packageId": {
             "type": "integer",
             "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "Donor": {
+        "required": [
+          "id",
+          "name"
+        ],
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "name": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "email": {
+            "type": "string",
+            "format": "email",
+            "nullable": true
+          },
+          "phone": {
+            "type": "string",
+            "nullable": true
+          },
+          "gifts": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Gift"
+            },
+            "nullable": true
           }
         },
         "additionalProperties": false
@@ -2243,6 +2497,10 @@
           "countCard": {
             "type": "integer",
             "format": "int32"
+          },
+          "image": {
+            "type": "string",
+            "nullable": true
           }
         },
         "additionalProperties": false
@@ -2298,6 +2556,55 @@
           },
           "role": {
             "$ref": "#/components/schemas/Role"
+          }
+        },
+        "additionalProperties": false
+      },
+      "Gift": {
+        "required": [
+          "categoryId",
+          "donor",
+          "name"
+        ],
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "donorId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "donor": {
+            "$ref": "#/components/schemas/Donor"
+          },
+          "name": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "description": {
+            "type": "string",
+            "nullable": true
+          },
+          "value": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "categoryId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "category": {
+            "$ref": "#/components/schemas/Category"
+          },
+          "sumCustomers": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "image": {
+            "type": "string",
+            "nullable": true
           }
         },
         "additionalProperties": false
@@ -2437,6 +2744,10 @@
           "countCard": {
             "type": "integer",
             "format": "int32"
+          },
+          "image": {
+            "type": "string",
+            "nullable": true
           }
         },
         "additionalProperties": false

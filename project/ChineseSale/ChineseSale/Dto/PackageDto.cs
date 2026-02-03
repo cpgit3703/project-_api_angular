@@ -12,6 +12,8 @@ namespace ChineseSale.Dto
 
         [Required]
         public int CountCard { get; set; }
+
+        public string Image { get; set; }
     }
     public class CreatePackageDto
     {
@@ -23,6 +25,7 @@ namespace ChineseSale.Dto
         public int Price { get; set; }
         [Required]
         public int CountCard { get; set; }
+        public string Image { get; set; }
 
     }
     public class UpdatePackageDto
@@ -35,6 +38,7 @@ namespace ChineseSale.Dto
         public int Price { get; set; }
         [Required]
         public int CountCard { get; set; }
+        public string Image { get; set; }
 
     }
 }

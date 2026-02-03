@@ -129,7 +129,11 @@ wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\vcd15cbe777
 wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\yFrame.png
 wwwroot\uploads\שופינג-אישה2.jpg
 wwwroot\uploads\שופינג-ילדים-1.jpg
-wwwroot\uploads\שינה.jpg
+wwwroot\uploads\sleep.jpg
+wwwroot\uploads\bottom.png
+wwwroot\uploads\gift0.png
+wwwroot\uploads\gift1.png
+wwwroot\uploads\gift2.png
 D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\wwwroot\uploads\עזר מציון הגרלה השנתית 2026.html
 D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\accsessibility.svg
 D:\לימודים יד\project api_angluar\project\ChineseSale\ChineseSale\wwwroot\uploads\עזר מציון הגרלה השנתית 2026_files\anchor.html

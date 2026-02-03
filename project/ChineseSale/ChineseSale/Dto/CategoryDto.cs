@@ -1,4 +1,6 @@
-﻿using ChineseSale.Model;
+﻿
+
+using ChineseSale.Model;
 using System.ComponentModel.DataAnnotations;
 
 namespace ChineseSale.Dto

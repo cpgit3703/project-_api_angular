@@ -97,34 +97,27 @@ namespace ChineseSale.Services
         }
         public async Task<GetPrizeDto> SelectRandomPrize(int giftId)
         {
-            int a = giftId;
-            a=a;
             Gift gift = await _giftReposetory.GetByIdGiftAsync(giftId);
-            a = gift.Id;
             if (gift == null)
-                throw new Exception("Gift not found");
-
-            if (gift.SumCustomers <= 0)
-                throw new Exception("No customers");
-
-            Random random = new Random();
-
-            while (true)
             {
-               
-                int num = random.Next(1, gift.SumCustomers + 1);
-                var order = await _orderService.GetOrderByIdAsync(giftId);
-
-                if (order != null)
-                {
-                    return new GetPrizeDto
-                    {
-                        UserId = order.UserId,
-                        GiftId = giftId
-                    };
-                }
+                throw new ArgumentException("gift not found");
             }
+            IEnumerable<GetUserDto> result = await _orderService.GetBuyerGift(giftId);
+            if (result.Count() == 0)
+            {
+                throw new ArgumentException("no buyers for this gift");
+            }
+            List<GetUserDto> usersDto = result.ToList();
+            Random rnd = new Random();
+            int prizePos = rnd.Next(0, usersDto.Count());
+            CreatePrizeDto prizeDto = new CreatePrizeDto()
+            {
+                UserId = usersDto[prizePos].Id,
+                GiftId = giftId
+            };
+            return await CreatePrizesAsync(prizeDto);
         }
+
         public async Task<GetPrizeDto?> PickWinnerAndSendEmailAsync(int giftId)
         {
            

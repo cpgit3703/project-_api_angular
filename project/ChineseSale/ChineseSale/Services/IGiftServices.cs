@@ -11,6 +11,9 @@ namespace ChineseSale.Services
         Task<GetGiftDto> UpdateGiftAsync(UpdateGiftDto updateGiftDto);
         Task<bool> DeleteGiftAsync(int id);
         Task<IEnumerable<GetGiftDto?>> ExistsGiftAsync(string name);
+        Task<IEnumerable<GetGiftDto?>> ExistsGiftDonorAsync(int donor);
+        Task<IEnumerable<GetGiftDto?>> ExistsGiftAsync(int sumCustomers);
+       
 
 
     }

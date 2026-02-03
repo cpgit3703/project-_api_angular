@@ -10,6 +10,9 @@ namespace ChineseSale.Repositories
         Task<Gift> UpdateGiftAsync(Gift gift);
         Task DeleteGiftAsync(Gift gift);
         Task<IEnumerable<Gift?>> ExistsGiftAsync(string name);
-        
+        Task<IEnumerable<Gift?>> ExistsGiftDonorAsync(int donor);
+        Task<IEnumerable<Gift?>> ExistsGiftAsync(int sumCustomers);
+ 
+
     }
 }

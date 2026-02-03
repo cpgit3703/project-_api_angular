@@ -57,7 +57,9 @@ namespace ChineseSale.Controllers
         public async Task<ActionResult<GetByIdDonorDto>> UpdateDonorAsync(UpdateDonorDto updateDonorDto)
         {
             try
+
             {
+                Console.WriteLine(updateDonorDto.Email);
                 var donor = await _donorService.UpdateDonorAsync(updateDonorDto);
                 _logger.LogInformation("Getting All Gift");
                 return Ok(donor);
@@ -75,6 +77,29 @@ namespace ChineseSale.Controllers
             if (!deleted)
                 return NotFound();   // 404 – לא קיים
             return NoContent();    // 204 – נמחק בהצלחה
+        }
+
+        [HttpGet("exists/{name}")]
+        public async Task<ActionResult<GetDonorDto>> ExistsGiftAsync(string name)
+        {
+            var donors = await _donorService.ExistsDonorAsync(name);
+            _logger.LogInformation("Getting All donor");
+            return Ok(donors);
+        }
+        [HttpGet("exists/donor/{email}")]
+        public async Task<ActionResult<GetDonorDto>> ExistsDonorEmailAsync(string email)
+        {
+            var donors = await _donorService.ExistsDonorEmailAsync(email);
+            _logger.LogInformation("Getting All donor");
+            return Ok(donors);
+        }
+
+        [HttpGet("exists/donor/{gift}")]
+        public async Task<ActionResult<GetDonorDto>> ExistsDonorEmailAsync(Gift gift)
+        {
+            var donors = await _donorService.ExistsDonorAsync(gift);
+            _logger.LogInformation("Getting All donor");
+            return Ok(donors);
         }
     }
 
